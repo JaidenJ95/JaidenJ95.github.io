@@ -1,14 +1,14 @@
 :root {
     /* Color of text and icons */
-    --main-color:            #0ABDC6;
+    --main-color:            #000000;
 
     /* Color to be used as an accent */
-    --detail-color:          #EA00D9;
+    --detail-color:          #840966;
 
     /* Colors used as backgrounds */
-    --header-color:          #091833;
-    --menu-background-color: #000B1E;
-    --link-background-color: #133E7C;
+    --header-color:          #2D2265;
+    --menu-background-color: #F22E76;
+    --link-background-color: #593594;
 }
 
 html, body {
