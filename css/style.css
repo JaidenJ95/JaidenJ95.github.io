@@ -1,13 +1,13 @@
 :root {
     /* Color of text and icons */
-    --main-color:            #c3cde6;
+    --main-color:            #b19cd9;
 
     /* Color to be used as an accent */
-    --detail-color:          #c3cde6;
+    --detail-color:          #b19cd9;
 
     /* Colors used as backgrounds */
-    --header-color:          #c3cde6;
-    --menu-background-color: #000000;
+    --header-color:          #000000;
+    --menu-background-color: #b19cd9;
     --link-background-color: #000000;
 }
 
